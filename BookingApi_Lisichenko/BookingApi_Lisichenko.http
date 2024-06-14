@@ -1,0 +1,6 @@
+@BookingApi_Lisichenko_HostAddress = http://localhost:5263
+
+GET {{BookingApi_Lisichenko_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
